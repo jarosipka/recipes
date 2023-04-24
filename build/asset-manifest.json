@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cc9eaf5d.css",
+    "main.js": "/static/js/main.cc5cfb3e.js",
+    "static/media/pexels-valeria-boltneva-1639562.jpg": "/static/media/pexels-valeria-boltneva-1639562.9c0e86c23fce92d4e391.jpg",
+    "static/media/pexels-jane-doan-1099680.jpg": "/static/media/pexels-jane-doan-1099680.99b2800bf71faebae047.jpg",
+    "index.html": "/index.html",
+    "main.cc9eaf5d.css.map": "/static/css/main.cc9eaf5d.css.map",
+    "main.cc5cfb3e.js.map": "/static/js/main.cc5cfb3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc9eaf5d.css",
+    "static/js/main.cc5cfb3e.js"
+  ]
+}

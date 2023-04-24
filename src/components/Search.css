@@ -1,0 +1,42 @@
+.search-input-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.search-input {
+  width: 60vw;
+  max-width: 580px;
+  flex: 1;
+  height: 40px;
+  font-size: 12px;
+  border: none;
+  border-radius: 10px;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.search-input:focus {
+  outline: none;
+}
+
+.search-button {
+  position: absolute;
+  left: 5px;
+  background-color: transparent;
+  border: none;
+  color: #a1a1a1;
+  cursor: pointer;
+  font-size: 1.5rem;
+}
+
+.search-button:hover {
+  color: black;
+}
+
+.find-recipe {
+  font-size: 3rem;
+  color: #fff;
+  justify-content: center;
+  display: flex;
+}
